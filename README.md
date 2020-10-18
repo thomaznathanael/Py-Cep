@@ -24,15 +24,14 @@ $ pip install -r requirements.txt
 >>> from pycep import PyCep
 >>> cep1 = PyCep('59104210')
 >>> cep1.dadosCep
->>> data
 {'cep': '59104-210', 'logradouro': 'Rua Alvorada', 'complemento': '', 'bairro': 'Igapó', 'localidade': 'Natal', 'uf': 'RN', 'ibge': '2408102', 'gia': '', 'ddd': '84', 'siafi': '1761'}
->>> data['localidade']
+>>> cep1.dadosCep['localidade']
 'Natal'
->>> data['uf']
+>>> cep1.dadosCep['uf']
 'RN'
->>> data.keys()
+>>> cep1.dadosCep.keys()
 dict_keys(['cep', 'logradouro', 'complemento', 'bairro', 'localidade', 'uf', 'ibge', 'gia', 'ddd', 'siafi'])
->>> data.values()
+>>> cep1.dadosCep.values()
 dict_values(['59104-210', 'Rua Alvorada', '', 'Igapó', 'Natal', 'RN', '2408102', '', '84', '1761'])
 >>>
 ```
