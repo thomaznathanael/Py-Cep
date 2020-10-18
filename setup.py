@@ -13,12 +13,12 @@ install_requires = [
 ]
 
 setup(
-    name='PyCep',
+    name='Py-Cep',
     version=version,
     author='Thomaz Nathanael',
     author_email='thomaznathanael@gmail.com',
     scripts=['exemplo.py', 'README.md'],
-    url='https://github.com/thomaznathanael/PyCep',
+    url='https://github.com/thomaznathanael/Py-Cep',
     license='LICENSE',
     description="Um simples modulo para obter informacoes de um CEP",
     long_description="Com este modulo é possível obter várias informações dos CEPs do Brasil, como logradouro, cidade, estado etc...",
