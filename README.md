@@ -1,10 +1,10 @@
-# PyCep
+# Py-Cep
 
-[![Python](https://img.shields.io/pypi/pyversions/Eel?style=for-the-badge&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/thomaznathanael/PyCep?style=for-the-badge)](https://github.com/thomaznathanael/PyCep/blob/main/LICENSE)
+[![Python](https://img.shields.io/pypi/pyversions/Py-Cep?style=for-the-badge&logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/thomaznathanael/Py-Cep?style=for-the-badge)](https://github.com/thomaznathanael/Py-Cep/blob/main/LICENSE)
 
-[![Alerts](https://img.shields.io/lgtm/alerts/github/thomaznathanael/PyCep?style=for-the-badge&logo=lgtm)](https://lgtm.com/projects/g/thomaznathanael/PyCep/alerts/)
-[![Quality](https://img.shields.io/lgtm/grade/python/github/thomaznathanael/PyCep?style=for-the-badge&logo=lgtm)](https://lgtm.com/projects/g/thomaznathanael/PyCep/context:python)
+[![Alerts](https://img.shields.io/lgtm/alerts/github/thomaznathanael/Py-Cep?style=for-the-badge&logo=lgtm)](https://lgtm.com/projects/g/thomaznathanael/Py-Cep/alerts/)
+[![Quality](https://img.shields.io/lgtm/grade/python/github/thomaznathanael/Py-Cep?style=for-the-badge&logo=lgtm)](https://lgtm.com/projects/g/thomaznathanael/Py-Cep/context:python)
 
 Obtem informações de CEPs do Brasil
 
