@@ -1,6 +1,7 @@
 # Py-Cep
 
 [![PyPI version](https://img.shields.io/pypi/v/Py-Cep?style=for-the-badge)](https://pypi.org/project/Py-Cep/)
+[![PyPi Downloads](https://img.shields.io/pypi/dm/Py-Cep?style=for-the-badge)](https://pypistats.org/packages/Py-Cep)
 [![Python](https://img.shields.io/pypi/pyversions/Py-Cep?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/thomaznathanael/Py-Cep?style=for-the-badge)](https://github.com/thomaznathanael/Py-Cep/blob/main/LICENSE)
 
