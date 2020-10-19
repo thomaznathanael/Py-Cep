@@ -24,8 +24,11 @@ setup(
     url='https://github.com/thomaznathanael/Py-Cep',
     license='LICENSE',
     description="Um simples modulo para obter informacoes de um CEP",
+    long_description=long_description,
     install_requires=install_requires,
     platforms = 'any',
+    long_description_content_type='text/markdown',
+    keywords=['cep', 'json', 'api', 'pycep', 'py-cep'],
     packages=find_packages(),
     classifiers = [
         'Programming Language :: Python',
@@ -42,4 +45,3 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],	
 )
-
