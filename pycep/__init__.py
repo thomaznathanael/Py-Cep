@@ -5,7 +5,7 @@ import json
 import requests
 from sys import exit
 
-__version__ = '1.0.0'
+__version__ = '1.0.5'
 
 class PyCep:
     def __init__(self, cep):
