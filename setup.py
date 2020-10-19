@@ -4,6 +4,9 @@
 from distutils.core import setup
 from setuptools import find_packages
 
+with open('README.md') as read_me:
+    long_description = read_me.read()
+    
 import pycep
 
 version = pycep.__version__
@@ -21,7 +24,6 @@ setup(
     url='https://github.com/thomaznathanael/Py-Cep',
     license='LICENSE',
     description="Um simples modulo para obter informacoes de um CEP",
-    long_description="Com este modulo é possível obter várias informações dos CEPs do Brasil, como logradouro, cidade, estado etc...",
     install_requires=install_requires,
     platforms = 'any',
     packages=find_packages(),
